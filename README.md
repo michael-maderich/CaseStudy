@@ -4,8 +4,7 @@ Spring Boot, Java, JSP, HTML, CS, Javascript, JPA, MySQL
 
 Case Study for Per Scholas Philadelphia 2021
 
-The scope of this project involves full development of an e-commerce website called “The Little Store." The Little Store will be a web app designed to facilitate a simple retail operation dealing in various household goods.  It requires a front-end website which is used both by customers for browsing items and placing orders, and by managers for performing operations on the inventory and processing orders; it requires a back-end database to store product, order, and user details; and it requires an application to coordinate the front-end with the back-end, that performs operations on the database in response to actions performed on the website.
-![image](https://user-images.githubusercontent.com/52681233/123656004-84d23b00-d7fd-11eb-86fc-f6326bdb99c6.png)
+
 The scope of this project involves full development of an e-commerce website called “The Little Store." The Little Store will be a web app designed to facilitate a simple retail operation dealing in various household goods.  It requires a front-end website which is used both by customers for browsing items and placing orders, and by managers for performing operations on the inventory and processing orders; it requires a back-end database to store product, order, and user details; and it requires an application to coordinate the front-end with the back-end, that performs operations on the database in response to actions performed on the website.
 ![image](https://user-images.githubusercontent.com/52681233/123656202-b3501600-d7fd-11eb-9c69-9f851cd1aeeb.png)
 User Stories - Customer
